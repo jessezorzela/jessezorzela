@@ -1,6 +1,6 @@
 ## Olá, sou o Jessé Zorzela
 
-- 🔭  Hoje estou desempregado querendo trabalhar no front
+- 🔭  Hoje  estou desempregado 
 - 🌱  Estudando Typescript e React
 
 <div align="center">
