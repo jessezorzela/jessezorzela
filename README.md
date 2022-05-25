@@ -14,9 +14,7 @@
   <img align="center" alt="Jesse-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jesse-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jesse-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jesse-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="right" alt="Jesse-pic" height="200" style="border-radius:50px;" src="https://discord.com/channels/737467943339950111/737467943339950116/979045223659343873">
+  <img align="right" alt="Jesse-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/737467943339950111/737467943339950116/979045223659343873">
 </div>
   
   ##
