@@ -1,7 +1,7 @@
 ## Olá, sou o Jessé Zorzela
 
 - 🔭  Hoje  estou desempregado 
-- 🌱  Estudando Typescript e React
+- 🌱  Estudando PHP e Banco de dados
 
 <div align="center">
   <a href="https://github.com/jessezorzela"/>
@@ -10,8 +10,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Jesse-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jesse-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jesse-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jesse-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Jesse-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jesse-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Jesse-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/737467943339950111/737467943339950116/979045223659343873">
