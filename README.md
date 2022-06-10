@@ -1,7 +1,7 @@
 ## Olá, sou o Jessé Zorzela
 
-- 🔭  Atualmente desempregado 
-- 🌱  Estudando PHP e Banco de dados
+- 🔭  Desenvolvedor WEB
+- 🌱  Sempre estudando PHP 
 
 <div align="center">
   <a href="https://github.com/jessezorzela"/>
