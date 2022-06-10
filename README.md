@@ -1,6 +1,6 @@
 ## Olá, sou o Jessé Zorzela
 
-- 🔭  Hoje  estou desempregado 
+- 🔭  Atualmente desempregado 
 - 🌱  Estudando PHP e Banco de dados
 
 <div align="center">
